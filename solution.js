@@ -9,7 +9,7 @@ $("#my_footer > p");
 // All header elements (<h1> through <h6>)
 $(":header");
 // The first element on the page
-$("first");
+$(":first");
 // The last div on the page
 $("div:last");
 // The last image on the page
